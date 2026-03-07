@@ -136,3 +136,21 @@ Interactive Filters & Drill-through Features
   Certain departments receive significantly more referrals
   
   Patient satisfaction remains consistently high
+
+Screenshot of Dashboard
+
+  Dashboard 1:
+  <img width="1203" height="730" alt="1-Snapshot of Monthly View" src="https://github.com/user-attachments/assets/0ceecbef-db2a-423e-8d65-6638b6e943c1" />
+
+
+  Dashboard 2:
+  <img width="1206" height="732" alt="2-Snapshot of Consolidated View" src="https://github.com/user-attachments/assets/899aabf0-1712-4c3a-949c-d1dab5442a44" />
+
+
+  Dashboard 3:
+  <img width="1200" height="730" alt="3-Snapshot of Patient Details" src="https://github.com/user-attachments/assets/ea99f5a0-7039-42d5-9f6f-84ae04bb734e" />
+
+  
+
+  
+
